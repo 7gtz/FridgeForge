@@ -1,0 +1,7 @@
+{
+  "name": "FridgeForge",
+  "description": "AI-powered pantry scanner and recipe generator using Gemini Vision and Structured Output.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
